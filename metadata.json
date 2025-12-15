@@ -1,0 +1,9 @@
+{
+  "name": "Corvus Access",
+  "description": "An accessible ride-hailing application for visually impaired users with Gemini Live AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
